@@ -2,7 +2,7 @@
   "name": "Pluggit Avent P310",
   "content_in_root": false,
   "domains": ["sensor"],
-  "filename": "custom_components/HA-pluggit-p310",
+  "filename": "custom_components/HA_pluggit_p310",
   "zip_release": false,
-  "version": "1.0.3"
+  "version": "1.0.4"
 }
