@@ -1,7 +1,7 @@
 {
   "domain": "pluggit_p310",
   "name": "HA Pluggit P310",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "documentation": "https://github.com/n0rdlicht90/HA-pluggit-p310",
   "requirements": ["pymodbus==2.5.3"],
   "codeowners": ["@n0rdlicht90"],
