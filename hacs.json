@@ -4,5 +4,5 @@
   "domains": ["sensor"],
   "filename": "custom_components/HA-pluggit-p310",
   "zip_release": false,
-  "version": "1.0.0"
+  "version": "1.0.3"
 }

@@ -1,4 +1,4 @@
-DOMAIN = "pluggit_p310"
+DOMAIN = "ha-pluggit-p310"
 CONF_HOST = "host"
 CONF_PORT = "port"
 DEFAULT_PORT = 502
